@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap');
+
+h1{
+  font-family: "Lora", serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+h2{
+  font-family: "Merienda", cursive;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.mainHeading{
+  font-size: 25.5px;
+  color: #FF0000;
+  background-color: #F6DCAC;
+  text-align: justify;
+  border: 10px solid #AD49E1;
+  border-radius: 15px;
+  box-shadow: 10px 10px 10px black;
+  text-shadow: 10px 10px 10px black;
+}
+
+img{
+  width: 350px;
+  height: 250px;
+  border: 2px solid #D20062;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px black;
+}
+
+p{
+  text-align: justify;
+  font-family: "Zilla Slab", serif;
+  font-weight: 300;
+  font-style: normal;
+  padding: 10px;
+}
+
+.BGColor{
+  background-color: #9EB384;
+}
+
+.size{
+  font-weight: bold;
+  font-size: 1.5rem;
+}
